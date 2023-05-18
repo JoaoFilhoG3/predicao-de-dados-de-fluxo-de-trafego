@@ -1,13 +1,13 @@
 # **Trabalhos primários obtidos através do trabalho "Predição de Dados de Fluxo de Tráfego: Uma Revisão Sistemática"**
 
-> Aljuaydi, F., Wiwatanapataphee, B., e Wu, Y. H. (2022).Multivariate machine learning-based
-> prediction models of freeway traffic flow under non-recurrent events.Alexandria Engineering
-> Journal. ISSN 11100168.
+Aljuaydi, F., Wiwatanapataphee, B., e Wu, Y. H. (2022).Multivariate machine learning-based
+prediction models of freeway traffic flow under non-recurrent events.Alexandria Engineering
+Journal. ISSN 11100168.
 
->
-> An, J., Fu, L., Hu, M., Chen, W., e Zhan, J. (2019). A Novel Fuzzy-Based Convolutional Neural
-> Network Method to Traffic Flow Prediction With Uncertain Traffic Accident Information.IEEE
-> Access, 7:20708–20722.
+
+An, J., Fu, L., Hu, M., Chen, W., e Zhan, J. (2019). A Novel Fuzzy-Based Convolutional Neural
+Network Method to Traffic Flow Prediction With Uncertain Traffic Accident Information.IEEE
+Access, 7:20708–20722.
 
 
 Awan, N., Ali, A., Khan, F., Zakarya, M., Alturki, R., Kundi, M., Alshehri, M. D., e Haleem, M.
