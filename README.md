@@ -1,6 +1,4 @@
-**Trabalhos primários obtidos através do trabalho "Predição de Dados de Fluxo de Tráfego: Uma Revisão Sistemática"**
-
-
+# **Trabalhos primários obtidos através do trabalho "Predição de Dados de Fluxo de Tráfego: Uma Revisão Sistemática"**
 
 Aljuaydi, F., Wiwatanapataphee, B., e Wu, Y. H. (2022).Multivariate machine learning-based
 prediction models of freeway traffic flow under non-recurrent events.Alexandria Engineering
