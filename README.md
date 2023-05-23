@@ -96,6 +96,9 @@ Cao, J., Guan, X., Zhang, N., Wang, X., e Wu, H. (2020). A Hybrid Deep Learning-
 fic Forecasting Approach Integrating Adjacency Filtering and Frequency Decomposition.IEEE
 Access, 8:81735–81746.
 
+Chen, X., Cai, X., Liang, J., e Liu, Q. (2018). Ensemble Learning Multiple LSSVR With Improved
+Harmony Search Algorithm for Short-Term Traffic Flow Forecasting. IEEE Access, 6:9347–9357
+
 Chen, C., Xu, Y., Zhao, J., Chen, L., e Xue, Y. (2022).Combining random forest and graph
 wavenet for spatial-temporal data prediction.Intelligent and Converged Networks, 3:364–377.
 ISSN 2708-6240. URLhttps://ieeexplore.ieee.org/document/10026523/.
@@ -131,6 +134,8 @@ Feng, S., Huang, J., Shen, Q., Shi, Q., e Shi, Z. (2022). A hybrid model integra
 spatial correlation for traffic prediction.IEEE Access, 10:2170–2181. ISSN 21693536.
 Guo, J., Xie, Z., Qin, Y., Jia, L., e Wang, Y. (2019). Short-Term Abnormal Passenger Flow Predic-
 tion Based on the Fusion of SVR and LSTM.IEEE Access, 7:42946–42955.
+
+Guo, J., Xie, Z., Qin, Y., Jia, L., e Wang, Y. (2019). Short-Term Abnormal Passenger Flow Prediction Based on the Fusion of SVR and LSTM. IEEE Access, 7:42946–42955.
 
 Huang, Z., Li, Q., Li, F., e Xia, J. (2019). A Novel Bus-Dispatching Model Based on Passenger
 Flow and Arrival Time Prediction.IEEE Access, 7:106453–106465.
