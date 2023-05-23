@@ -1,6 +1,8 @@
-## **Trabalhos primários obtidos através do trabalho Predição de Dados de Fluxo de Tráfego: Uma Revisão Sistemática**
+## **Trabalhos primários obtidos através do trabalho "Predição de Dados de Fluxo de Tráfego: Uma Revisão Sistemática"**
 
 Na tabela abaixo, é possível visualizar os trabalhos primários selecionados após aplicação dos critérios de inclusão e exclusão. Para cada trabalho, pode-se visualizar a avaliação da qualidade, as técnicas de predição e de pré-processamento e as métricas utilizadas para validação dos modelos.
+
+Para ter acesso ao texto completo, basta clicar na referência na tabela.
 
 | Estudos                    | Qualidade<br />da<br />Execução | Adequação<br />ao<br />Objetivo | Adequação<br />ao<br />Contexto | Ranqueamento | Técnicas<br />de<br />Predição                 | Técnicas<br />de<br />Pré-processamento       | Métricas<br />de<br />Validação |
 | :------------------------- | --------------------------------- | --------------------------------- | --------------------------------- | ------------ | ------------------------------------------------- | ----------------------------------------------- | ---------------------------------- |
